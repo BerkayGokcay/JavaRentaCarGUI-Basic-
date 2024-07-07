@@ -1,0 +1,9 @@
+Audi,06 ABC 123,A,Diesel,Manual,Smoker,Four,Ankara,500
+Skoda,07 SD 156,B,Gas,Automatic,Non-Smoker,Four,Antalya,400
+Peugeot,33 BZ 234,B,Gas,Manual,Smoker,Four,Mersin,300
+Citroen,35 TG 845,B,Diesel,Automatic,Smoker,Four,Izmir,500
+Mercedes,06 FU 485,A,Diesel,Automatic,Non-Smoker,Two,Ankara,450
+BMV,34 KH 874,A,Gas,Manual,Smoker,Four,Istanbul,550
+Fıat,38 EY 324,C,Diesel,Manual,Smoker,Four,Kayseri,150
+Volvo,14 AAE 774,A,Gas,Automatic,Non-Smoker,four,Bolu,400
+
